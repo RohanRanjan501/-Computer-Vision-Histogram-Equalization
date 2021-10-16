@@ -1,1 +1,0 @@
-#Computer-Vision-Histogram-Equalization
